@@ -12,7 +12,7 @@ app.get('/api/footballers', (req, res) => {
         {
           name: "Lionel Messi",
           age: 34,
-          club: "Paris Saint-Germain",
+          club: "Inter Miami",
           position: "Forward",
           achievements: ["7-time Ballon d'Or winner", "4-time Champions League winner"],
           skills: ["Dribbling", "Passing", "Free Kicks"],
@@ -21,7 +21,7 @@ app.get('/api/footballers', (req, res) => {
         {
           name: "Cristiano Ronaldo",
           age: 36,
-          club: "Manchester United",
+          club: "Al Nassr FC",
           position: "Forward",
           achievements: ["5-time Ballon d'Or winner", "5-time Champions League winner"],
           skills: ["Speed", "Heading", "Finishing"],
@@ -30,7 +30,7 @@ app.get('/api/footballers', (req, res) => {
         {
           name: "Neymar Jr.",
           age: 29,
-          club: "Paris Saint-Germain",
+          club: "Al Hilal",
           position: "Forward",
           achievements: ["1-time Champions League winner", "Copa Libertadores winner"],
           skills: ["Flair", "Ball control", "Assists"],
@@ -48,7 +48,7 @@ app.get('/api/footballers', (req, res) => {
         {
           name: "Robert Lewandowski",
           age: 33,
-          club: "Bayern Munich",
+          club: "FC Barcelona",
           position: "Forward",
           achievements: ["Bundesliga top scorer", "Champions League winner"],
           skills: ["Finishing", "Strength", "Heading"],
